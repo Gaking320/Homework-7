@@ -1,0 +1,9 @@
+# Dependencies
+import json
+import tweepy 
+import matplotlib.pyplot as plt 
+import pandas as pd from datetime 
+import datetime,date 
+import numpy as np from vaderSentiment.vaderSentiment 
+import SentimentIntensityAnalyzer
+analyzer = SentimentIntensityAnalyzer()
